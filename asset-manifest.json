@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/saha/static/css/main.76ae3bad.css",
+    "main.js": "/saha/static/js/main.d4cda26c.js",
+    "static/media/pexels-max-fischer-5212653.jpg": "/saha/static/media/pexels-max-fischer-5212653.23d90fcbe9474667d149.jpg",
+    "static/media/coures-2.jpg": "/saha/static/media/coures-2.059256af38d873de9143.jpg",
+    "static/media/pexels-oleksandr-p-2781814.jpg": "/saha/static/media/pexels-oleksandr-p-2781814.b0eee255e1a3de739ca9.jpg",
+    "static/media/coures-3.jpg": "/saha/static/media/coures-3.16bb3937fe354d9a256f.jpg",
+    "static/media/coures-1.jpg": "/saha/static/media/coures-1.e6df4d3c8e6596af72d0.jpg",
+    "static/media/pexels-vlada-karpovich-4050325.jpg": "/saha/static/media/pexels-vlada-karpovich-4050325.ff07038f8b191f74b50e.jpg",
+    "static/media/pexels-andrea-piacquadio-3762800.jpg": "/saha/static/media/pexels-andrea-piacquadio-3762800.21968001fafdc0d6cb9c.jpg",
+    "static/media/design.jpg": "/saha/static/media/design.b064b72003482bf18d2d.jpg",
+    "static/media/consulting.jpg": "/saha/static/media/consulting.464699a53bbad1e288f9.jpg",
+    "static/media/home.jpg": "/saha/static/media/home.f1cf261dc872598f6a53.jpg",
+    "static/media/products.jpg": "/saha/static/media/products.caa23e8abff03fd5917e.jpg",
+    "static/media/contactus.jpg": "/saha/static/media/contactus.70d62765ad250d5af227.jpg",
+    "static/media/IMG-20230816-WA0039.jpg": "/saha/static/media/IMG-20230816-WA0039.386c306d2fc88ce8c4c2.jpg",
+    "static/media/IMG-20230816-WA0040.jpg": "/saha/static/media/IMG-20230816-WA0040.e84fe7afd1b9059d286a.jpg",
+    "static/media/IMG-20230816-WA0037.jpg": "/saha/static/media/IMG-20230816-WA0037.2e043aa4b640afb78667.jpg",
+    "static/media/logo.jpg": "/saha/static/media/logo.2959b58dab607c75d100.jpg",
+    "index.html": "/saha/index.html",
+    "main.76ae3bad.css.map": "/saha/static/css/main.76ae3bad.css.map",
+    "main.d4cda26c.js.map": "/saha/static/js/main.d4cda26c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ae3bad.css",
+    "static/js/main.d4cda26c.js"
+  ]
+}
