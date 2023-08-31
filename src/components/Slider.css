@@ -1,0 +1,69 @@
+/* SlidingBanner.css */
+
+.banner-slider {
+    width: 100%;
+    height: 43rem; /* Set your desired height */
+    overflow: hidden;
+    display: flex;
+  }
+  
+  /* .swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    background-position: center;
+    background-size: cover;
+  } */
+  
+  @media(max-width:1250px){
+
+  }
+
+  .slide{
+    
+    width: 100%;
+    height: 100%;
+    display: flex;
+    
+    background-position: center;
+    background-size: cover;
+  }
+  .one{
+    background-image: url("../images/pexels-andrea-piacquadio-3762800.jpg");
+  }
+  .two{
+    background-image: url("../images/pexels-max-fischer-5212653.jpg");
+  }
+  .three{
+    background-image: url("../images/pexels-oleksandr-p-2781814.jpg");
+  }
+
+  .slide-text{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    margin-left: 15rem;
+    color: aliceblue;
+
+  }
+  .slide-text button{
+    width: 9rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+  }
+  @media(max-width:640px){
+
+    .banner-slider{
+        height: 50rem;
+        width: 5rem;
+        background-color: aquamarine;
+        margin: 0;
+    }
+
+  }
+
+
